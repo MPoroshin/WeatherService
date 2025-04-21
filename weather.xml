@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<current>
+    <city name="Киров">
+        <coord lon="49.6601" lat="58.5966"/>
+    </city>
+    <temperature value="5.69"/>
+    <weather value="дождь"/>
+    <wind>
+        <speed value="4.27"/>
+    </wind>
+    <clouds value="100"/>
+</current>

@@ -1,0 +1,22 @@
+{
+    "name": "Киров",
+    "coord": {
+      "lon": 49.6601,
+      "lat": 58.5966
+    },
+    "main": {
+      "temp": 5.69
+    },
+    "weather": [
+      {
+        "description": "дождь"
+      }
+    ],
+    "wind": {
+      "speed": 4.27
+    },
+    "clouds": {
+      "all": 100
+    }
+  }
+  

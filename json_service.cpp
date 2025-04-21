@@ -2,7 +2,7 @@
 #include <exception>
 #include "json.hpp"
 #include "json_service.h"
-#include "weather_model.cpp"
+#include "weather_model.h"
 #include <stdexcept>
 
 using nlohmann::json;
