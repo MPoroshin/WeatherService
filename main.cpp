@@ -1,5 +1,5 @@
 #include "xml_service.h"
-#include "weather_model.cpp"
+#include "weather_model.h"
 
 int main()
 {

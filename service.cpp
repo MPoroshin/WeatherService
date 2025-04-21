@@ -1,9 +1,8 @@
 #ifndef SERVICE_H
 #define SERVICE_H
 
+#include "weather_model.h"
 #include <string>
-
-class Weather; // Предполагается, что класс Weather объявлен где-то еще
 
 class Service {
 public:
@@ -11,4 +10,4 @@ public:
     virtual ~Service() = default; // Виртуальный деструктор
 };
 
-#endif // SERVICE_H
+#endif

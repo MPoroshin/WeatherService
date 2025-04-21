@@ -1,3 +1,6 @@
+#ifndef WEATHER_H
+#define WEATHER_H
+
 #include <string>
 
 class Weather {
@@ -16,3 +19,5 @@ public:
         : city(city_), lon(lon_), lat(lat_), temperature(temperature_),
           weather(weather_), windSpeed(windSpeed_), clouds(clouds_) {}
 };
+
+#endif
